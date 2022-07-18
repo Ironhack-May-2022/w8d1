@@ -1,6 +1,7 @@
 # CORS Problem
 
-One way to fix this would be to use the cors package as added in config/index.js
+One way to fix this would be to use the cors package as added in config/index.js.
+
 More info about CORS can be found [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ```js
